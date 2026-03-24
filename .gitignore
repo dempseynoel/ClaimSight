@@ -2,8 +2,7 @@
 .terraform/
 *.tfstate
 *.tfstate.backup
-*.tfvars
-.terraform.lock.hcl
+secrets.tfvars
 
 # Python
 __pycache__/
