@@ -1,7 +1,0 @@
-environment             = "prod"
-location                = "uksouth"
-resource_group_name     = "rg-claimsight-prod"
-storage_account_name    = "stclaimsightprod"
-key_vault_name          = "kv-claimsight-prod"
-workspace_name          = "dbw-claimsight-prod"
-db_storage_account_name = "stclaimsightdbprod"

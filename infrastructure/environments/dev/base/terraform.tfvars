@@ -1,7 +1,0 @@
-environment             = "dev"
-location                = "uksouth"
-resource_group_name     = "rg-claimsight-dev"
-storage_account_name    = "stclaimsightdev"
-key_vault_name          = "kv-claimsight-dev"
-workspace_name          = "dbw-claimsight-dev"
-db_storage_account_name = "stclaimsightdbdev"
