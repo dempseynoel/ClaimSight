@@ -1,2 +1,0 @@
-environment    = "test"
-base_state_key = "test/claimsight.tfstate"

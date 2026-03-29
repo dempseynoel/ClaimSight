@@ -1,2 +1,0 @@
-environment    = "dev"
-base_state_key = "dev/claimsight.tfstate"

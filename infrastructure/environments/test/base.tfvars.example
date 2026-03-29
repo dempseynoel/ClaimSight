@@ -1,7 +1,0 @@
-environment             = "test"
-location                = "uksouth"
-resource_group_name     = "rg-claimsight-test"
-storage_account_name    = "stclaimsighttest"
-key_vault_name          = "kv-claimsight-test"
-workspace_name          = "dbw-claimsight-test"
-db_storage_account_name = "stclaimsightdbtest"
