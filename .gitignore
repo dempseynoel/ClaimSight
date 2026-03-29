@@ -18,3 +18,7 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+
+# Docs
+.docs/
+*.md

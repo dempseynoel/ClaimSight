@@ -1,0 +1,2 @@
+environment    = "prod"
+base_state_key = "prod/claimsight.tfstate"

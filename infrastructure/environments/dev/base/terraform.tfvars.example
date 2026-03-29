@@ -1,7 +1,0 @@
-environment             = "dev"
-location                = "uksouth"
-resource_group_name     = "rg-claimsight-dev"
-storage_account_name    = "<globally-unique-storage-account-name>"
-key_vault_name          = "<globally-unique-key-vault-name>"
-workspace_name          = "dbw-claimsight-dev"
-db_storage_account_name = "<globally-unique-dbricks-storage-name>"
